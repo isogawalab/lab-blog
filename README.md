@@ -1,1 +1,1 @@
-# lab-blog
+# Isogawa Lab Blog
